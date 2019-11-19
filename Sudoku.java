@@ -1,5 +1,5 @@
 
-package sudokuGame;
+package sudoku;
 
 public class Sudoku {
 

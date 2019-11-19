@@ -1,4 +1,4 @@
-package sudokuGame;
+package sudoku;
 /////////////////////////////Copy of Mainscreen. Editted as needed
 import java.awt.*;
 import java.awt.event.MouseAdapter;

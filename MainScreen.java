@@ -1,4 +1,4 @@
-package sudokuGame;
+package sudoku;
 
 import java.awt.*;
 import java.awt.event.MouseAdapter;
